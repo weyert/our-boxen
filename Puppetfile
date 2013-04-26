@@ -33,3 +33,20 @@ github "sudo",     "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "osx",      			 "1.1.0",   :github_tarball => "boxen/puppet-osx"
+github "property_list_key",  "0.1.0",   :github_tarball => "glarizza/puppet-property_list_key"
+
+# Server technology
+github "mysql"
+github "vagrant"
+github "imagemagick"
+
+# Applications
+github "sublime_text_2"
+github "onepassword"
+github "caffeine"
+github "dropbox"
+github "chrome"
+github "firefox"
+github "iterm2"
